@@ -24,9 +24,9 @@
 
   ## Links
 
-  GitHub Repository: https://github.com/IanMordaunt/README-Generator
+  GitHub Repository: 
   
-  README-Generator Demo: https://vimeo.com/manage/videos/663207350
+  README-Generator Demo: 
 
   <a name='installation'></a>
   ## Installation
