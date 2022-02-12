@@ -20,8 +20,7 @@
   <a name='description'></a>
   ## Description
 
-  An application to help expedite the creation process of a ReadMe file from the cammand line
-
+ This application provides the user with a clean looking space to put together text and have it saved to the browsers local storage.
   ## Links
 
   GitHub Repository: 
