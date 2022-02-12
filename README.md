@@ -23,7 +23,7 @@
  This application provides the user with a clean looking space to put together text and have it saved to the browsers local storage.
   ## Links
 
-  GitHub Repository: 
+  GitHub Repository: https://github.com/IanMordaunt/Text-Editor
   
   README-Generator Demo: 
 
