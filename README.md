@@ -25,7 +25,7 @@
 
   GitHub Repository: https://github.com/IanMordaunt/Text-Editor
   
-  README-Generator Demo: 
+  Deployed App:  https://text-editor-im.herokuapp.com/
 
   <a name='installation'></a>
   ## Installation
