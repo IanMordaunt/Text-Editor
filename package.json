@@ -27,13 +27,5 @@
   "devDependencies": {
     "concurrently": "^5.2.0",
     "nodemon": "^2.0.4"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/IanMordaunt/Text-Editor.git"
-  },
-  "bugs": {
-    "url": "https://github.com/IanMordaunt/Text-Editor/issues"
-  },
-  "homepage": "https://github.com/IanMordaunt/Text-Editor#readme"
+  }
 }
